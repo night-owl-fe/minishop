@@ -6,7 +6,7 @@ export let warn = noop
 
 export let error = noop
 
-if ('production' !== 'production') {
+if ('development' !== 'production') {
   log = console.log
   warn = console.warn
   error = console.error

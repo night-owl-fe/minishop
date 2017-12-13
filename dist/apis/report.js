@@ -6,7 +6,7 @@ export const errorReport = (e) => {
   let data = {
     content: format(e)
   }
-  if ('production' !== 'production') {
+  if ('development' !== 'production') {
     console.log(data.content)
   }
   assign(data, config.systemInfo)

@@ -1,2 +1,6 @@
 import { WPage } from 'axe'
-WPage()
+WPage({
+  data: {
+    message: 'hello home'
+  }
+})
