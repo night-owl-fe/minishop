@@ -35,6 +35,10 @@
   justify-content: flex-end;
 }
 
+.uf-jsa {
+  justify-content: space-around;
+}
+
 .uf-center {
   align-items: center;
   justify-content: center;

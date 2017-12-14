@@ -1,14 +1,23 @@
 /* 类型标签的默认样式 */
 .tag {
-  height: 34rpx;
-  padding: 0 20rpx;
-  border-radius: 17rpx;
+  display: inline-block;
+  height: 34px;
+  line-height: 34px;
+  padding: 0 20px;
+  border-radius: 17px;
   color: #fff;
 }
 
+.tag-icon, .tag-text {
+  vertical-align: middle;
+}
+
 .tag-icon {
-  width: 16rpx;
-  height: 12rpx;
+  width: 16px;
+  height: 12px;
+}
+.tag-text {
+  padding-left: 10px;
 }
 
 .tag-education {

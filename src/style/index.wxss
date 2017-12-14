@@ -4,3 +4,4 @@
 @import "./btn.wxss";
 @import "./font.wxss";
 @import "./tag.wxss";
+@import "./common.wxss";
