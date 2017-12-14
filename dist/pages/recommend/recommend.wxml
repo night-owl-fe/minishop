@@ -1,7 +1,7 @@
 <view class="recommends">
   <text class="title h1">今日推荐</text>
 
-  <view class="recommend" style="background-image: url('../../images/test-bg.png');">
+  <view class="recommend" style="background-image: url('https://img.wuage.com/public/151324581878494052243_1280_720.png');">
     <view class="btn-get">
       <text>获取</text>
     </view>
@@ -10,16 +10,16 @@
         <view class="uf uf-f1 uf-ac">
           <text class="program-title h2">优秀网页设计</text>
           <view class="tag tag-education">
-            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <image class="tag-icon" src="https://img.wuage.com/public/151324580733894680372_16_13.png" mode="aspectFit"></image>
             <text class="tag-text h6">教育</text>
           </view>
         </view>
         <text class="program-des uf-f1 h4 nowrap">国内知名设计师学习平台国内知名设计师学习平台国内知名设计师学习平台</text>
       </view>
-      <image class="program-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <image class="program-logo" src="https://img.wuage.com/public/151324581897113712151_500_500.png" mode="aspectFit"></image>
     </view>
   </view>
-  <view class="recommend" style="background-image: url('../../images/test-bg.png');">
+  <view class="recommend" style="background-image: url('https://img.wuage.com/public/151324581878494052243_1280_720.png');">
     <view class="btn-get">
       <text>获取</text>
     </view>
@@ -28,13 +28,13 @@
         <view class="uf uf-f1 uf-ac">
           <text class="program-title h2">优秀网页设计</text>
           <view class="tag tag-education">
-            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <image class="tag-icon" src="https://img.wuage.com/public/151324580733894680372_16_13.png" mode="aspectFit"></image>
             <text class="tag-text h6">教育</text>
           </view>
         </view>
         <text class="program-des uf-f1 h4 nowrap">国内知名设计师学习平台国内知名设计师学习平台国内知名设计师学习平台</text>
       </view>
-      <image class="program-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <image class="program-logo" src="https://img.wuage.com/public/151324581897113712151_500_500.png" mode="aspectFit"></image>
     </view>
   </view>
 
@@ -42,12 +42,12 @@
 
   <view class="recommend-list">
     <view class="program uf uf-ac">
-      <image class="program-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <image class="program-logo" src="https://img.wuage.com/public/151324581897113712151_500_500.png" mode="aspectFit"></image>
       <view class="program-text uf uf-jsa uf-col uf-f1">
         <view class="uf uf-f1 uf-ac">
           <text class="program-title h2">优秀网页设计</text>
           <view class="tag tag-education">
-            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <image class="tag-icon" src="https://img.wuage.com/public/151324580733894680372_16_13.png" mode="aspectFit"></image>
             <text class="tag-text h6">教育</text>
           </view>
         </view>
@@ -58,12 +58,12 @@
       </view>
     </view>
     <view class="program uf uf-ac">
-      <image class="program-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <image class="program-logo" src="https://img.wuage.com/public/151324581897113712151_500_500.png" mode="aspectFit"></image>
       <view class="program-text uf uf-jsa uf-col uf-f1">
         <view class="uf uf-f1 uf-ac">
           <text class="program-title h2">优秀网页设计</text>
           <view class="tag tag-education">
-            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <image class="tag-icon" src="https://img.wuage.com/public/151324580733894680372_16_13.png" mode="aspectFit"></image>
             <text class="tag-text h6">教育</text>
           </view>
         </view>
@@ -74,12 +74,12 @@
       </view>
     </view>
     <view class="program uf uf-ac">
-      <image class="program-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <image class="program-logo" src="https://img.wuage.com/public/151324581897113712151_500_500.png" mode="aspectFit"></image>
       <view class="program-text uf uf-jsa uf-col uf-f1">
         <view class="uf uf-f1 uf-ac">
           <text class="program-title h2">优秀网页设计</text>
           <view class="tag tag-education">
-            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <image class="tag-icon" src="https://img.wuage.com/public/151324580733894680372_16_13.png" mode="aspectFit"></image>
             <text class="tag-text h6">教育</text>
           </view>
         </view>
