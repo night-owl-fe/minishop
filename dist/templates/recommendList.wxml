@@ -1,0 +1,52 @@
+<template name="recommendList">
+  <view class="recommend-list">
+    <view class="item uf uf-ac">
+      <view class="btn-get">
+        <text>获取</text>
+      </view>
+      <image class="recommend-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <view class="uf-f1 nowrap">
+        <view class="uf uf-ac">
+          <text class="recommend-title h2">优秀网页设计</text>
+          <view class="tag tag-education">
+            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <text class="tag-text h6">教育</text>
+          </view>
+        </view>
+        <text class="h4">国内知名设计师学习平台国内知名设计师学习平台国内知名设计师学习平台</text>
+      </view>
+    </view>
+    <view class="item uf uf-ac">
+      <view class="btn-get">
+        <text>获取</text>
+      </view>
+      <image class="recommend-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <view class="uf-f1 nowrap">
+        <view class="uf uf-ac">
+          <text class="recommend-title h2">优秀网页设计</text>
+          <view class="tag tag-education">
+            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <text class="tag-text h6">教育</text>
+          </view>
+        </view>
+        <text class="h4">国内知名设计师学习平台国内知名设计师学习平台国内知名设计师学习平台</text>
+      </view>
+    </view>
+    <view class="item uf uf-ac">
+      <view class="btn-get">
+        <text>获取</text>
+      </view>
+      <image class="recommend-logo" src="../../images/test-logo.png" mode="aspectFit"></image>
+      <view class="uf-f1 nowrap">
+        <view class="uf uf-ac">
+          <text class="recommend-title h2">优秀网页设计</text>
+          <view class="tag tag-education">
+            <image class="tag-icon" src="../../images/tag/education.png" mode="aspectFit"></image>
+            <text class="tag-text h6">教育</text>
+          </view>
+        </view>
+        <text class="h4">国内知名设计师学习平台国内知名设计师学习平台国内知名设计师学习平台</text>
+      </view>
+    </view>
+  </view>
+</template>

@@ -1,0 +1,31 @@
+/* 页面大标题 */
+.title {
+  display: block;
+  padding: 36rpx 0 24rpx;
+  font-weight: 500;
+  color: #333;
+}
+
+/* 小程序样式 */
+.program {
+  width: 100%;
+}
+
+.program .program-text {
+  overflow: hidden;
+}
+
+.program .program-logo {
+  margin-left: 30rpx;
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 8rpx;
+}
+
+.program .program-title {
+  padding-right: 20rpx;
+}
+
+.program .program-des {
+  padding-top: 12rpx;
+}

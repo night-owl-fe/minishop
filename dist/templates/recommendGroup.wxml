@@ -1,0 +1,3 @@
+<template name="recommendGroup">
+  <text>{{text}}</text>
+</template>

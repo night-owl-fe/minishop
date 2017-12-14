@@ -1,0 +1,4 @@
+<template name="test">
+  <text class="recommends-title h1">今日推荐</text>
+  <text class="recommends-title h1">今日推荐</text>
+</template>
